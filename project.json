@@ -1,0 +1,14 @@
+{
+  "name": "Demo Hackton",
+  "description": "Project",
+  "main": "DeserializeObjectDataTable.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6793.21969",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

@@ -1,0 +1,7 @@
+CustomerId,Transaction Type,Amount
+12243211,Debit,12
+31242122,Debit,32
+54232311,Debit,42
+12353123,Debit,22
+12353123,Credit,16
+12243211,Debit,10
